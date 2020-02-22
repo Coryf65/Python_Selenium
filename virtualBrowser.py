@@ -20,3 +20,17 @@ show_message_button = driver.find_element_by_xpath('//*[@id="get-input"]/button'
 show_message_button.click()
 
 # Now handling Input fields
+input_1 = driver.find_element_by_xpath('//*[@id="sum1"]')
+
+# adding text
+input_1.send_keys('10')
+
+input_2 = driver.find_element_by_xpath('//*[@id="sum2"]')
+
+# 2nd text input
+input_2.send_keys('50')
+
+# get total button
+total_button = driver.find_element_by_xpath('//*[@id="gettotal"]/button')
+
+total_button.click()
