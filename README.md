@@ -6,7 +6,7 @@ Follow along on Linkedin.com/Learning
 (https://www.linkedin.com/learning/using-python-for-automation/automating-web-browsing)
 
 
-# Used Packages
+## Used Packages
 
-'Running in my VSCode Terminal
-pip install selenium
+Running in my VSCode Terminal
+`pip install selenium`
