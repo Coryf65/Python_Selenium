@@ -17,7 +17,9 @@ Running in my VSCode Terminal
 ### Install a Driver for Selenium to use ( Chrome / Firefox-Gecko )
 
 [Chrome Driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+
 [Firefox/Gecko Driver](https://github.com/mozilla/geckodriver/releases)
+
 [Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
 ### Point Driver to location on PC
