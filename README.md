@@ -9,4 +9,7 @@ Follow along on Linkedin.com/Learning
 ## Used Packages
 
 Running in my VSCode Terminal
+
 `pip install selenium`
+`pip install cask`
+`brew cask install chromedriver`
