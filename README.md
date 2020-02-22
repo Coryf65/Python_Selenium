@@ -5,6 +5,7 @@ Follow along on ... [Linkedin.com/Learning](https://www.linkedin.com/learning/us
 
 #### Resources 
 [Selenium with Python](https://selenium-python.readthedocs.io/installation.html#introduction)
+
 [Learning Selenium](https://www.seleniumeasy.com/)
 
 
@@ -14,7 +15,7 @@ Running in my VSCode Terminal
 
 `pip install selenium`
 
-### Install a Driver for Selenium to use ( Chrome / Firefox-Gecko )
+### Install a Driver for Selenium to use...
 
 [Chrome Driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
