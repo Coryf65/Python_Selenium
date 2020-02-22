@@ -11,5 +11,7 @@ Follow along on Linkedin.com/Learning
 Running in my VSCode Terminal
 
 `pip install selenium`
+
 `pip install cask`
+
 `brew cask install chromedriver`
